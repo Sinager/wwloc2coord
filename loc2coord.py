@@ -1,6 +1,7 @@
 ''
 MAIDENHEAD LOCATOR TO DECIMAL LAT/LON CONVERTER
 based on the excellent explaination by M0NWK
+https://www.m0nwk.co.uk/how-to-convert-maidenhead-locator-to-latitude-and-longitude/
 2023 Stefano Sinagra IZ0MJE
 released under GNU/GPL conditions
 ''
